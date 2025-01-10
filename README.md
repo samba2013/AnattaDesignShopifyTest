@@ -5,7 +5,7 @@ Step for test:
 
 1 - create .env file with two params filled with credentials:
 
-SHOPIFY_ADMIN_SHOP=
+SHOPIFY_ADMIN_SHOP=<br>
 SHOPIFY_ADMIN_ACCESS_TOKEN=
 
 2 - install node modules:
