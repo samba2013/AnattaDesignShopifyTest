@@ -1,0 +1,26 @@
+{
+  "name": "AnattaDesignShopifyTest",
+  "version": "1.0.0",
+  "description": "Anatta Design Shopify Test",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samba2013/AnattaDesignShopifyTest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samba2013/AnattaDesignShopifyTest/issues"
+  },
+  "homepage": "https://github.com/samba2013/AnattaDesignShopifyTest#readme",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "https": "^1.0.0",
+    "node-fetch": "^3.3.2"
+  }
+}
